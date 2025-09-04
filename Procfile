@@ -1,1 +1,1 @@
-web: php -S 0.0.0.0:8080 -t .
+web: php -S 0.0.0.0:3000 bot.php
